@@ -1,4 +1,6 @@
 ﻿#This asks the user for a folder path and then displays all the files within along with the total size 
+ #Version 1.1
+ #Last modified 2/1/22
 ###############################################################
 #Ask for folder path
 $Usrimp = Read-Host -Prompt "Enter file path"
